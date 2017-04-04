@@ -27,7 +27,11 @@ module.exports = function (dir, filters, options, callback) {
     if (err) return callback(err)
 
     async.mapLimit(paths, opt.parallelRemove, function (item, next) {
-      fs.remove(path.join(dir, item), next)
+      var full = path.join(dir, item)
+      fs.remove(full, function (err) {
+        if (err) return next(err)
+        else return next(null, full)
+      })
     }, callback)
   })
 }

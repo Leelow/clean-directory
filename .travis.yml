@@ -11,4 +11,4 @@ install:
   - yarn install
 after_success:
   - yarn run coverage
-#  - yarn run codacy
+  - yarn run codacy

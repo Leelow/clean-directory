@@ -3,8 +3,8 @@
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build Status][travis-image]][travis-url]
 [![Build Status][appveyor-image]][appveyor-url]
-<!--- [![Codacy Coverage][codacy-coverage-image]][codacy-coverage-url] --->
-<!--- [![Codacy Grade][codacy-grade-image]][codacy-grade-url] --->
+[![Codacy Coverage][codacy-coverage-image]][codacy-coverage-url]
+[![Codacy Grade][codacy-grade-image]][codacy-grade-url]
 [![Dev-dependencies][dev-dependencies-image]][dev-dependencies-url]
 [![JavaScript Style Guide][javascript-standard-image]][javascript-standard-url]
 
@@ -49,10 +49,10 @@ $ npm run coverage
 [travis-url]: https://travis-ci.org/Leelow/clean-directory
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/4qbyuoo6kvxab4b5?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/Leelow/clean-directory
-<!--- [codacy-coverage-image]: https://api.codacy.com/project/badge/Coverage/be1d56eb162d41a586ecac79685161f7 --->
-<!--- [codacy-coverage-url]: https://www.codacy.com/app/Leelow/clean-directory?utm_source=github.com&utm_medium=referral&utm_content=Leelow/clean-directory&utm_campaign=Badge_Coverage --->
-<!--- [codacy-grade-image]: https://api.codacy.com/project/badge/Grade/be1d56eb162d41a586ecac79685161f7 --->
-<!--- [codacy-grade-url]: https://www.codacy.com/app/Leelow/clean-directory?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Leelow/clean-directory&amp;utm_campaign=Badge_Grade --->
+[codacy-coverage-image]: https://api.codacy.com/project/badge/Coverage/225159e9829d472f84fdacbceaaf5db5
+[codacy-coverage-url]: https://www.codacy.com/app/Leelow/clean-directory?utm_source=github.com&utm_medium=referral&utm_content=Leelow/clean-directory&utm_campaign=Badge_Coverage
+[codacy-grade-image]: https://api.codacy.com/project/badge/Grade/225159e9829d472f84fdacbceaaf5db5
+[codacy-grade-url]: https://www.codacy.com/app/Leelow/clean-directory?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Leelow/clean-directory&amp;utm_campaign=Badge_Grade
 [dev-dependencies-image]: https://david-dm.org/leelow/clean-directory/dev-status.svg
 [dev-dependencies-url]: https://david-dm.org/leelow/clean-directory?type=dev
 [javascript-standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg

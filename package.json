@@ -1,6 +1,6 @@
 {
   "name": "clean-directory",
-  "version": "0.9.0",
+  "version": "0.9.9",
   "description": "A tiny module to clean a directory selecting which files or directories to keep.",
   "main": "clean-directory.js",
   "license": "MIT",
