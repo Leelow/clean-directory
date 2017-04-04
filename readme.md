@@ -2,7 +2,7 @@
 
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build Status][travis-image]][travis-url]
-<!--- [![Build Status][appveyor-image]][appveyor-url] --->
+[![Build Status][appveyor-image]][appveyor-url]
 <!--- [![Codacy Coverage][codacy-coverage-image]][codacy-coverage-url] --->
 <!--- [![Codacy Grade][codacy-grade-image]][codacy-grade-url] --->
 [![Dev-dependencies][dev-dependencies-image]][dev-dependencies-url]
@@ -47,8 +47,8 @@ $ npm run coverage
 [downloads-url]: https://www.npmjs.com/package/clean-directory
 [travis-image]: https://travis-ci.org/Leelow/clean-directory.svg?branch=master
 [travis-url]: https://travis-ci.org/Leelow/clean-directory
-<!--- [appveyor-image]: https://ci.appveyor.com/api/projects/status/32aj3ap0kelnbdqt?svg=true --->
-<!--- [appveyor-url]: https://ci.appveyor.com/project/Leelow/clean-directory --->
+[appveyor-image]: https://ci.appveyor.com/api/projects/status/4qbyuoo6kvxab4b5?svg=true
+[appveyor-url]: https://ci.appveyor.com/project/Leelow/clean-directory
 <!--- [codacy-coverage-image]: https://api.codacy.com/project/badge/Coverage/be1d56eb162d41a586ecac79685161f7 --->
 <!--- [codacy-coverage-url]: https://www.codacy.com/app/Leelow/clean-directory?utm_source=github.com&utm_medium=referral&utm_content=Leelow/clean-directory&utm_campaign=Badge_Coverage --->
 <!--- [codacy-grade-image]: https://api.codacy.com/project/badge/Grade/be1d56eb162d41a586ecac79685161f7 --->
