@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "7"
+  - "6"
+  - "5"
+  - "4"
+os:
+  - linux
+  - osx
+install:
+  - yarn install
+after_success:
+  - yarn run coverage
+#  - yarn run codacy

@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+
+.idea
+glob-invert.iml
+
+coverage
+files
+.appveyor.yml
+.travis.yml
+.gitignore
+test.js
