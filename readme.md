@@ -1,5 +1,6 @@
 # clean-directory
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Leelow/clean-directory.svg)](https://greenkeeper.io/)
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build Status][travis-image]][travis-url]
 [![Build Status][appveyor-image]][appveyor-url]
