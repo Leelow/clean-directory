@@ -1,6 +1,6 @@
 {
   "name": "clean-directory",
-  "version": "0.9.91",
+  "version": "0.9.92",
   "description": "A tiny module to clean a directory selecting which files or directories to keep.",
   "main": "clean-directory.js",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "codacy-coverage": "^2.0.1",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0",
-    "standard": "^9.0.2",
+    "standard": "^10.0.0",
     "mock-require": "^2.0.2"
   },
   "repository": {
