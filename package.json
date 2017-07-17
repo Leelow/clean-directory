@@ -1,6 +1,6 @@
 {
   "name": "clean-directory",
-  "version": "0.9.92",
+  "version": "1.0.0",
   "description": "A tiny module to clean a directory selecting which files or directories to keep.",
   "main": "clean-directory.js",
   "license": "MIT",
@@ -15,15 +15,15 @@
     "codacy": "istanbul cover -x test.js ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/.bin/codacy-coverage"
   },
   "dependencies": {
-    "async": "^2.3.0",
+    "async": "^2.5.0",
     "fs-extra": "^4.0.0",
-    "glob-ignore": "^1.0.0"
+    "glob-ignore": "^1.0.2"
   },
   "devDependencies": {
-    "codacy-coverage": "^2.0.1",
+    "codacy-coverage": "^2.0.2",
     "istanbul": "^0.4.5",
-    "mocha": "^3.2.0",
-    "standard": "^10.0.0",
+    "mocha": "^3.4.2",
+    "standard": "^10.0.2",
     "mock-require": "^2.0.2"
   },
   "repository": {
