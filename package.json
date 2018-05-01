@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "async": "^2.5.0",
-    "fs-extra": "^4.0.0",
+    "fs-extra": "^6.0.0",
     "glob-ignore": "^1.0.2"
   },
   "devDependencies": {
