@@ -20,7 +20,7 @@
     "glob-ignore": "^1.0.2"
   },
   "devDependencies": {
-    "codacy-coverage": "^2.0.2",
+    "codacy-coverage": "^3.2.0",
     "istanbul": "^0.4.5",
     "mocha": "^4.0.0",
     "standard": "^10.0.2",
